@@ -1,0 +1,20 @@
+{
+  "name": "app-test",
+  "description": "Electron app test",
+  "main": "./dist/main.js",
+  "authors": [
+    "thinceller"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
